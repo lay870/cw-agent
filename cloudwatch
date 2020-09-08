@@ -1,0 +1,2 @@
+#!/bin/bash
+/opt/cloudwatch/cloudwatch.pl --mem-util --mem-used --mem-avail --disk-path=/ --disk-space-util --disk-space-used --disk-space-avail
